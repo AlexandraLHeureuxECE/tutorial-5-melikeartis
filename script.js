@@ -103,6 +103,3 @@ function chooseColor() {
 	var randomIndex=Math.floor(Math.random()*colours.length);
 	return colours[randomIndex];
 }
-
-
-
